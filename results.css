@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+article, h2 {
+  width: 80%;
+  margin: auto;
+  padding: 2%;
+}
+article {
+  border-top: 2px solid black;
+}
+h2 {
+  margin-top: 2%;
+}
